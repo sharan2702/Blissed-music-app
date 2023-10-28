@@ -1,16 +1,1 @@
-# untitled5
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="685" alt="Screenshot 2023-10-29 at 12 35 06 AM" src="https://github.com/sharan2702/Blissed-music-app/assets/133088748/b93a50c1-5060-4dc6-b641-42d013e53691">
